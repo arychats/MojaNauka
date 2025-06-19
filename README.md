@@ -12,9 +12,9 @@
 |------------------|------------------|
 | ![Ekran główny](img/main.png) | ![Wykres postępu](img/stats.png) |
 
-| Nauka kart | Przegląd kart |
+| Nauka kart | Ustawienia|
 |-------------|----------------|
-| ![Nauka](img/learn.png) | ![Lista kart](img/cards.png) |
+| ![Nauka](img/learn.png) | ![Lista kart](img/settings.png) |
 
 ---
 
