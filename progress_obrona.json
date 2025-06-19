@@ -1,0 +1,177 @@
+[
+  {
+    "id": "da149ca4-8385-4d06-96bf-9d928cd85b0c",
+    "pytanie": "1. Elementy składowe projektów europejskich. Planowanie projektu.",
+    "status": "review",
+    "due_date": "2025-06-20T15:58:07.836465",
+    "interval": 86400.0
+  },
+  {
+    "id": "f21dbf0c-8012-4474-b83d-595fbd37dfd4",
+    "pytanie": "2. Modele systemów eksploatacji stosowanych w energetyce odnawialnej.",
+    "status": "new",
+    "due_date": "2025-06-19T15:58:06.087852",
+    "interval": 0
+  },
+  {
+    "id": "55aa73a4-ec3b-4cf6-b738-909d14789122",
+    "pytanie": "3. Optymalizacja warunków eksploatacji instalacji energetycznych i urządzeń znajdujących zastosowanie w gospodarce odpadami.",
+    "status": "new",
+    "due_date": "2025-06-19T15:58:06.087858",
+    "interval": 0
+  },
+  {
+    "id": "2f45630e-583a-46c9-a546-515964a0a521",
+    "pytanie": "4. Budownictwo niskoemisyjne w kontekście zrównoważonego rozwoju.",
+    "status": "review",
+    "due_date": "2025-06-19T16:08:08.691482",
+    "interval": 600.0
+  },
+  {
+    "id": "fbeec6d7-d68f-428e-834e-f01a1dc54c1a",
+    "pytanie": "5. Wykorzystanie energii odnawialnej na potrzeby energetyczne budynków.",
+    "status": "new",
+    "due_date": "2025-06-19T15:58:06.087866",
+    "interval": 0
+  },
+  {
+    "id": "3e584cd5-ee7d-4f33-9fa9-3895347e6278",
+    "pytanie": "6. Przykłady systemów pomiarowo-diagnostycznych w OŹEiGO.",
+    "status": "new",
+    "due_date": "2025-06-19T15:58:06.087869",
+    "interval": 0
+  },
+  {
+    "id": "42efebab-74e5-478f-ac1e-f0cfb0c73205",
+    "pytanie": "7. Budowa i działanie aparatury kontrolno-pomiarowej stosowanej w OŹEiGO.",
+    "status": "new",
+    "due_date": "2025-06-19T15:58:06.087872",
+    "interval": 0
+  },
+  {
+    "id": "b5279c7a-f46a-4579-a75a-f9bce9c1831c",
+    "pytanie": "8. Przykłady monitoringu i diagnostyki pracy wybranych elementów oraz podzespołów urządzeń",
+    "status": "new",
+    "due_date": "2025-06-19T15:58:06.087876",
+    "interval": 0
+  },
+  {
+    "id": "7dcfe6ed-f495-4fd7-b1ff-2deca5c849db",
+    "pytanie": "9. Budowa, rodzaje i zasada działania rekuperacji.",
+    "status": "review",
+    "due_date": "2025-06-19T16:08:12.365329",
+    "interval": 600.0
+  },
+  {
+    "id": "9d2d8376-d1ea-4b6b-9a17-544a8592ed86",
+    "pytanie": "10. Rodzaje i źródła energii dostępne w przyrodzie.",
+    "status": "new",
+    "due_date": "2025-06-19T15:58:06.087882",
+    "interval": 0
+  },
+  {
+    "id": "74fac450-fc0c-4cfd-8d86-e57083d30128",
+    "pytanie": "11. GIS w zarzadzaniu odnawialnymi źródłami energii i gospodarce odpadami",
+    "status": "review",
+    "due_date": "2025-06-20T15:58:09.533931",
+    "interval": 86400.0
+  },
+  {
+    "id": "898b4cd0-1a73-4cbb-ac09-fc3688347a21",
+    "pytanie": "12. Audyt energetyczny – zakres i metody.",
+    "status": "new",
+    "due_date": "2025-06-19T15:58:06.087888",
+    "interval": 0
+  },
+  {
+    "id": "55be22cc-45bf-4f8c-b188-d6bf6ffc91f6",
+    "pytanie": "13. Świadectwa charakterystyki energetycznej budynków.",
+    "status": "new",
+    "due_date": "2025-06-19T15:58:06.087892",
+    "interval": 0
+  },
+  {
+    "id": "f0a17f8f-c9a3-4f45-a4bc-079a041165b4",
+    "pytanie": "14. Modelowanie matematyczne procesów w energetyce i gospodarce odpadami",
+    "status": "new",
+    "due_date": "2025-06-19T15:58:06.087895",
+    "interval": 0
+  },
+  {
+    "id": "1875ff8d-174b-487e-bc45-0c7ecf23f812",
+    "pytanie": "15. Podstawowe miary i wskaźniki niezawodności. Charakterystyka podstawowych struktur niezawodnościowych.",
+    "status": "new",
+    "due_date": "2025-06-19T15:58:06.087898",
+    "interval": 0
+  },
+  {
+    "id": "eecfb5a9-971f-479c-ac28-3941c02b7854",
+    "pytanie": "16. Związek między niezawodnością elementów urządzeń technicznych a bezpieczeństwem systemu.",
+    "status": "new",
+    "due_date": "2025-06-19T15:58:06.087901",
+    "interval": 0
+  },
+  {
+    "id": "ec31851a-0d7d-4c2d-a23a-09d03599cba5",
+    "pytanie": "17. Modelowanie niezawodności systemów dla poprawy ich bezpieczeństwa.",
+    "status": "new",
+    "due_date": "2025-06-19T15:58:06.087904",
+    "interval": 0
+  },
+  {
+    "id": "ed394585-43a9-43b2-be17-32c108e25b9e",
+    "pytanie": "18. Wpływ inwestycji związanych z odnawialnymi źródłami energii i gospodarką odpadami na układy ekologiczne i środowisko.",
+    "status": "new",
+    "due_date": "2025-06-19T15:58:06.087907",
+    "interval": 0
+  },
+  {
+    "id": "cd3dc962-5e42-47c0-8645-67b970bd9dfe",
+    "pytanie": "19. Rola metod statystycznych w badaniach dotyczących gospodarki odpadami i odnawialnymi Źródłami energii.",
+    "status": "review",
+    "due_date": "2025-06-23T15:58:10.687270",
+    "interval": 345600.0
+  },
+  {
+    "id": "88782394-2d3a-4c69-bc65-6903bce606c8",
+    "pytanie": "20. Metody analizy statystycznej w badaniach – testy parametryczne i nieparametryczne.",
+    "status": "new",
+    "due_date": "2025-06-19T15:58:06.087913",
+    "interval": 0
+  },
+  {
+    "id": "d80cfdd0-89ca-4bc0-b4b3-4f1e1a64a809",
+    "pytanie": "21. Podstawy i cele wprowadzania inteligentnych technologii w OŹEiGO.",
+    "status": "new",
+    "due_date": "2025-06-19T15:58:06.087916",
+    "interval": 0
+  },
+  {
+    "id": "d659e337-b8b6-4ed4-a228-e38ad7bd3514",
+    "pytanie": "22. LCA i jego środowiskowe znaczenie.",
+    "status": "new",
+    "due_date": "2025-06-19T15:58:06.087920",
+    "interval": 0
+  },
+  {
+    "id": "970b36fc-0979-4d2d-a310-ec01b28e2a52",
+    "pytanie": "23. Oceny oddziaływania na środowisko (OOŚ) – cel i zakres.",
+    "status": "new",
+    "due_date": "2025-06-19T15:58:06.087923",
+    "interval": 0
+  },
+  {
+    "id": "1f0c5877-8578-4196-96fd-06da0cbf5cdb",
+    "pytanie": "24. Kompensacja przyrodnicza w aspekcie ocen oddziaływania na środowisko (OOŚ).",
+    "status": "new",
+    "due_date": "2025-06-19T15:58:06.087926",
+    "interval": 0
+  },
+  {
+    "id": "d2d208b5-c6ac-4f0c-8254-a0762a6f08f4",
+    "pytanie": "25. Formy organizacyjno-prawne działalności gospodarczej w OŹEiGO.",
+    "status": "new",
+    "due_date": "2025-06-19T15:58:06.087929",
+    "interval": 0
+  }
+]
